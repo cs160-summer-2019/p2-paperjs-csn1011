@@ -168,7 +168,7 @@ margin-right: auto;
   
 </head>
 <body>	
-  <div><button  style = "position: absolute; left: 100px; float: right; border-radius: 40%;background-color:white;color: black; border: 5px black; font-size: 30px"> +  </button> 
+  <div><button  style = "position: absolute; left: 800px; float: right; border-radius: 40%;background-color:white;color: black; border: 5px black; font-size: 30px"> +  </button> 
   <canvas id="myCanvas" width="750px" height="750px"></canvas>
 	<div id="color-palette"></div>
 </body>
